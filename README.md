@@ -26,4 +26,4 @@ Every model I train is a small experiment in teaching machines to see, reason, a
 pushing technology closer to truly human-aligned intelligence.
 
 ✨ Total GitHub Contributions
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipgou&theme=tokyonight" alt="GitHub streak visualization" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilipgou&theme=black-ice&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=00FFFF&dates=808080&hide_current_streak=true&hide_longest_streak=true" alt="Total GitHub Contributions" width="250" height="120" /> </p>
