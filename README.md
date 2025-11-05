@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Dilip
+# 👋 Hey, I’m Dilip  
 
 ### 🧠 AI Explorer · Builder · Human-Centered Technologist  
 
@@ -23,8 +23,8 @@ I build systems that **think, understand, and assist**, bridging the gap between
 | Project | Description | Tech Stack |
 |:--------|:-------------|:------------|
 | 🩺 **ClinicAI** | Built a CNN + DistilBERT healthcare recommender using MIMIC-III; achieved **87 % accuracy**, improving rural diagnostics by **30 %** | PyTorch · Transformers · Flask |
-| 🤖 **RAG Knowledge Assistant** | Designed a LLaMA-2 + LangChain + FAISS retrieval system for ML tutorials; boosted response relevance by **18 %** across 200 + evaluated queries | LLaMA-2 · LangChain · FAISS |
-| ⚙️ **AutoPilotAI** | Developed agentic workflow automation (n8n + GPT models) increasing reporting efficiency by **40 %** | GPT-4 · FastAPI · n8n |
+| 🎙️ **VoiceMorphAI** | Created a **diffusion-based voice conversion system** that transforms speaker tone & emotion using **AudioLDM2**; deployed an interactive **Gradio UI** for real-time demos | Diffusers · PyTorch · Gradio · Librosa |
+| 🤖 **RAG Knowledge Assistant** | Designed a **LLaMA-2 + LangChain + FAISS** retrieval system for ML tutorials; boosted response relevance by **18 %** across 200 + evaluated queries | LLaMA-2 · LangChain · FAISS |
 
 ---
 
@@ -33,19 +33,19 @@ I build systems that **think, understand, and assist**, bridging the gap between
 | Category | Tools |
 |:----------|:-------|
 | 🧠 **Core Languages** | Python · Java · C++ · Scala · SQL |
-| ⚙️ **Machine Learning & Deep Learning** | PyTorch · TensorFlow · Keras · Scikit-learn · XGBoost |
-| 🤖 **NLP & Large Language Models** | LangChain · Transformers · FAISS · LLaMA-2 · DistilBERT · Hugging Face |
-| ☁️ **Cloud & MLOps** | AWS · GCP · Docker · Kubernetes · MLflow · GitHub Actions |
-| 🌐 **Frameworks & Visualization** | Flask · FastAPI · Streamlit · Plotly · Matplotlib · Seaborn |
+| ⚙️ **Machine Learning / Deep Learning** | PyTorch · TensorFlow · Keras · Scikit-learn · XGBoost |
+| 🤖 **NLP / Large Language Models** | LangChain · Transformers · FAISS · LLaMA-2 · DistilBERT · Hugging Face |
+| ☁️ **Cloud / MLOps** | AWS · GCP · Docker · Kubernetes · MLflow · GitHub Actions |
+| 🌐 **Frameworks / Visualization** | Flask · FastAPI · Streamlit · Plotly · Matplotlib · Seaborn |
 
 ---
 
 ## 🌍 Philosophy  
 
-> “AI should not replace intelligence — it should multiply it.”
+> “AI should not replace intelligence — it should multiply it.”  
 
 Every model I train is a small experiment in teaching machines to **see, reason, and assist** —  
-pushing technology closer to truly *human-aligned intelligence*.
+pushing technology closer to truly *human-aligned intelligence*.  
 
 ---
 
@@ -53,9 +53,22 @@ pushing technology closer to truly *human-aligned intelligence*.
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dilipgou&theme=black-ice&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=00FFFF&dates=808080&hide_current_streak=true&hide_longest_streak=true" 
-    alt="Total GitHub Contributions"
-    width="250"
-    height="120"
+    src="https://github-readme-streak-stats.vercel.app?user=dilipgou&theme=black-ice&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=00FFFF&sideLabels=00FFFF&dates=808080"
+    alt="GitHub Contributions"
+    width="400"
+    height="150"
   />
 </p>
+
+---
+
+## 🧭 Currently Exploring  
+
+- 🎧 **Generative Audio AI** (diffusion + LLMs for sound design)  
+- 🧩 **Multi-modal retrieval systems** integrating text, audio & vision  
+- ☁️ **Lightweight AI deployment pipelines** using Docker + FastAPI  
+- 📚 **Research alignment** between human creativity and AI augmentation  
+
+---
+
+
